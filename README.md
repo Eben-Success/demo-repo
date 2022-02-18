@@ -1,4 +1,8 @@
 # Demo-repo
+
 My first Github demo
 
-This is my first github demo tutorial from youtube video
+## Description
+
+This repo is my first tutorial on how to use Github to store and retrieve codes, and many more.
+
